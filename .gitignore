@@ -41,4 +41,7 @@ target_wrapper.*
 
 # QtCreator CMake
 CMakeLists.txt.user*
+<<<<<<< HEAD
 
+=======
+>>>>>>> a126d44da16b405f9374d9500f6706580ad36773
