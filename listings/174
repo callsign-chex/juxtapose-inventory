@@ -1,0 +1,25 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Shorts, Skirts, Dress, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=shoes
+
+Brand=kenneth cole new york
+
+Size=7.5
+
+Color=black/silver
+
+Cost=3.00
+
+Title=kennth cole new york black slide
+
+Description {
+kenneth cole new york black slide
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=bb2
+ItemID=174

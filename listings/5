@@ -1,0 +1,25 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=tops
+
+Brand=
+coldwater creek
+Size=m 10-12
+
+Color=blue/white
+
+Cost=
+3.52
+Title=coldwater creek blue and white sleeveless top
+
+Description {
+coldwater creek blue and white sleeveless top
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=b1
+ItemID=5

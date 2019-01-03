@@ -1,0 +1,25 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Shorts, Skirts, Dress, Tops, Outer Wear, Underwear, Swimwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=outer wear
+
+Brand=allison daley
+
+Size=small petite
+
+Color=black/brown
+
+Cost=1.00
+
+Title=allison daley black/cheetah print jacket
+
+Description {
+allison daley black/cheetah print jacket
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=b4
+ItemID=228

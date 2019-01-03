@@ -1,0 +1,25 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Shorts, Skirts, Dress, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=pants
+
+Brand=white house black market
+
+Size=6
+
+Color=blue
+
+Cost=4.50
+
+Title=white house/black market flare jeans blanc
+
+Description {
+white house black market flare jeans blanc
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=b4
+ItemID=213

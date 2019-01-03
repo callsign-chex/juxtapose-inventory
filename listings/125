@@ -1,0 +1,25 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Shorts, Skirts, Dress, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=accessories
+
+Brand=none
+
+Size=os
+
+Color=gold
+
+Cost=1.00
+
+Title=long gold tone star with pearly center necklace
+
+Description {
+long gold tone star necklace
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=j1
+ItemID=125

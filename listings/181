@@ -1,0 +1,25 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Shorts, Skirts, Dress, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=bags
+
+Brand=ipsy 
+
+Size=os
+
+Color=blue/silver
+
+Cost=.50
+
+Title=ipsy small blue and silver cosmetic bag
+
+Description {
+ipsy
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=bb2
+ItemID=181

@@ -1,0 +1,25 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Shorts, Skirts, Dress, Tops, Outer Wear, Underwear, Swimwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=tops
+
+Brand=cable & gauge
+
+Size=m
+
+Color=gray/black
+
+Cost=1.00
+
+Title=cable & gauge black/gray sweater
+
+Description {
+cable & gauge
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=b4
+ItemID=227

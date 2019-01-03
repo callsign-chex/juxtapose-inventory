@@ -1,0 +1,33 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=tops
+
+Brand=cynthia rowley 
+
+Size=xl
+
+Color=purple
+
+Cost=3.52
+
+Title=cynthia rowley silky purple blouse
+
+Description {cynthia rowley silky purple blouse
+
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=b1
+ItemID=4
+
+
+
+
+
+
+
+

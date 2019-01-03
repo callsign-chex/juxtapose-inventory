@@ -1,0 +1,27 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=tops
+
+Brand=denim 24/7
+
+Size=22
+
+Color=gray
+
+Cost=3.52
+
+(SOLD) Title=denim 24/7 gray crochet accent blouse
+
+Description {
+denim 24/7 gray crochet accent blouse
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=b3
+ItemID=106
+
+Sold for 15.00

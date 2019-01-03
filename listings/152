@@ -1,0 +1,25 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Shorts, Skirts, Dress, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=shoes
+
+Brand=bella vita
+
+Size=7 narrow
+
+Color=tan
+
+Cost=3.00
+
+Title=bella vita tan leather wedge
+
+Description {
+bella vita tan leather wedge
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=bb1
+ItemID=152

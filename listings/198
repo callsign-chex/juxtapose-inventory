@@ -1,0 +1,25 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Shorts, Skirts, Dress, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=tops
+
+Brand=agb 
+
+Size=small petite
+
+Color=black
+
+Cost=3.00
+
+Title=agb sleeveless black sparkly tank
+
+Description {
+agb sleeveless black sparkly
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=b4
+ItemID=198

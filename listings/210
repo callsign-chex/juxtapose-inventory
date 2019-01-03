@@ -1,0 +1,25 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Shorts, Skirts, Dress, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=tops
+
+Brand=bolle
+
+Size=l
+
+Color=gray/pink/white
+
+Cost=3.00
+
+Title=bolle tennis shirt gray, pink and white
+
+Description {
+bolle tennis shirt gray pinki and white
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=b4
+ItemID=210

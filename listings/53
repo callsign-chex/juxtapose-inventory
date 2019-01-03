@@ -1,0 +1,25 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=men
+
+(Pants, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=tops
+
+Brand=hollister
+
+Size=xs
+
+Color=red/tan
+
+Cost=3.52
+
+Title=hollister red plaid shirt
+
+Description {
+red plaid shirt
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=b2
+ItemID=53

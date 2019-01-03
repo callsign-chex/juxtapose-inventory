@@ -1,0 +1,27 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Shorts, Skirts, Dress, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=pants
+
+Brand=joe's jeans
+
+Size=27/29
+
+Color=blue
+
+Cost=4.50
+
+Title=joe's jeans provocateur jeans 
+
+Description {
+joe's jeans provocateur
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=b4
+ItemID=218
+
+

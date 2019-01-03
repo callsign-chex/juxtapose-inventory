@@ -1,0 +1,25 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=tops
+
+Brand=la hearts
+
+Size=m
+
+Color=black/white
+
+Cost=3.52
+
+Title=la hearts black/.white sequin crop top
+
+Description {
+la hearts black and white sequin crop top
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=b3
+ItemID=96

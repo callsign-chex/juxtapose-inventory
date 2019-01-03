@@ -1,0 +1,25 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=tops
+
+Brand=old  navy
+
+Size=xs
+
+Color=red
+
+Cost=3.52
+
+Title=old navy bandana print t shirt
+
+Description {
+old navy red bandana print t shirt
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=b2
+ItemID=55

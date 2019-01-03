@@ -1,0 +1,25 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Shorts, Skirts, Dress, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=shoes
+
+Brand=muk luks 
+
+Size=6.5-7.5
+
+Color=orange/pink
+
+Cost=2.00
+
+Title=muk luks color striped slippers
+
+Description {
+muk luks color striped slippers
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=bb1
+ItemID=156

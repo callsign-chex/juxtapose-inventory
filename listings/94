@@ -1,0 +1,25 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=tops
+
+Brand=live happy
+
+Size=s/m
+
+Color=pink/green
+
+Cost=3.52
+
+Title=live happy colorful boho tunic
+
+Description {
+live happy boho tunic
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=b3
+ItemID=94

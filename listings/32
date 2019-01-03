@@ -1,0 +1,26 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=underwear
+
+Brand=free press lingerie
+
+Size=m
+
+Color=coral
+
+Cost=2.15
+
+Title=free press lingerie coral spice bralette
+
+Description {
+free press lingerie coral spice braletter
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=b1
+ItemID=31
+

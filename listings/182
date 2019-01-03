@@ -1,0 +1,27 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Shorts, Skirts, Dress, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=bags
+
+Brand=elaine turner
+
+Size=os
+
+Color=pink
+
+Cost=15.00
+
+(SOLD) Title=gorgeous elaine turner stacey pink hobo
+
+Description {
+gorgeous elaine turner stacey pink hobo
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=bb2
+ItemID=182
+
+Sold for 48.00

@@ -1,0 +1,25 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Shorts, Skirts, Dress, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=shoes
+
+Brand=carlos santana
+
+Size=8
+
+Color=brown
+
+Cost=4.00
+
+Title=carlos santana mambo leather sandals
+
+Description {
+carlos santana mambo
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=bb1
+ItemID=155

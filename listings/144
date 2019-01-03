@@ -1,0 +1,25 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Shorts, Skirts, Dress, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=shoes
+
+Brand=alberto fermani
+
+Size=9 (39)
+
+Color=reddish brown
+
+Cost=8.00
+
+Title=alberto fermani reddish brown suede booties
+
+Description {
+alberto fermani booties
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=bb1
+ItemID=144

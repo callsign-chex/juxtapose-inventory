@@ -1,0 +1,25 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=tops
+
+Brand=pink rose
+
+Size=l
+
+Color=blue/green
+
+Cost=3.52
+
+Title=pink rose multi print blouse
+
+Description {
+pink rose multi print blouse
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=b2
+ItemID=41

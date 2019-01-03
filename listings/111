@@ -1,0 +1,25 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=woman
+
+(Pants, Shorts, Skirts, Dress, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=skirts
+
+Brand=road rags jean co
+
+Size=4
+
+Color=black/silver
+
+Cost=4.00
+
+Title=road rags jeans co black faux leather moto skirt
+
+Description {
+road rags
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=b3
+ItemID=111

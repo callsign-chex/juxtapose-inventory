@@ -1,0 +1,25 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=tops
+
+Brand=american agle outfitters
+
+Size=small petite
+
+Color=blue/pink
+
+Cost=2.00
+
+Title=american eagle outfitters blue t shirt
+
+Description {
+aeo blue t shirt
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=b3
+ItemID=81

@@ -1,0 +1,24 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Shorts, Skirts, Dress, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=accessories
+
+Brand=none
+
+Size=os
+
+Color=brown
+cost= 2.00
+
+Title=bundle of 6 bangle bracelets
+
+Description {
+bundle of 6 bangle bracelets
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=j1
+ItemID=130

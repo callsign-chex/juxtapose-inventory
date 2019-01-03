@@ -1,0 +1,27 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Shorts, Skirts, Dress, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=tops
+
+Brand=mushka by sienna rose
+
+Size=m
+
+Color=green/blue
+
+Cost=3.52
+
+(SOLD) Title=mushka by sienna rose sheer tunic
+
+Description {
+mushka by sienna rose sheer tunic
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=b3
+ItemID=116
+
+Sold for 18.00

@@ -1,0 +1,25 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=tops
+
+Brand=wdny
+
+Size=l
+
+Color=black/white
+
+Cost=3.52
+
+Title=wdny black and white tunic
+
+Description {
+wdny black and white tunic
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=b1
+ItemID=17

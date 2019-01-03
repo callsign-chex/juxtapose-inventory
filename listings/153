@@ -1,0 +1,25 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Shorts, Skirts, Dress, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=shoes
+
+Brand=nickles
+
+Size=8
+
+Color=black
+
+Cost=5.00
+
+Title=nickels black leather mules
+
+Description {
+nickels black leather mules
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=bb1
+ItemID=153

@@ -1,0 +1,25 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=skirts
+
+Brand=ocean drive
+
+Size=s
+
+Color=green/white
+
+Cost=3.52
+
+Title=ocean drive green skirt/white embroidery
+
+Description {
+ocean drive green white skirt
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=b3
+ItemID=89

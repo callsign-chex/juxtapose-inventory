@@ -1,0 +1,25 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=womwn
+
+(Pants, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=
+tops
+Brand=
+wishful park
+Size=
+s
+Color=
+blue
+Cost=3.52
+
+Title=wishful park sheer mint floral blouse
+
+Description {
+wishful park sheer mint floral blouse
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=b1
+ItemID=7

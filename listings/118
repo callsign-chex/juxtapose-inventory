@@ -1,0 +1,25 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Shorts, Skirts, Dress, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=skirts
+
+Brand=talbots
+
+Size=4
+
+Color=blue/red
+
+Cost=4.00
+
+Title=talbots red white and blue floral pencil skirt
+
+Description {
+talbots red white blue floral skirt
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=b3
+ItemID=118

@@ -1,0 +1,25 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Shorts, Skirts, Dress, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=shoes
+
+Brand=sam edelman
+
+Size=7.5
+
+Color=gold/tan
+
+Cost=3.00
+
+Title=sam edelman metallic gold wedge sandals
+
+Description {
+sam edelman metallic gold wedge sandals
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=bb1
+ItemID=158

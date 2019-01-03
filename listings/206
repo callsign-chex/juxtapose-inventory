@@ -1,0 +1,25 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Shorts, Skirts, Dress, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=pants
+
+Brand=allen b 
+
+Size=m
+
+Color=blue/gold
+
+Cost=3.00
+
+Title=allen b navy blue and gold studded capris
+
+Description {
+allen b navy blue and gold
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=b4
+ItemID=206

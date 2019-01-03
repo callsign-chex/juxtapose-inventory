@@ -1,0 +1,26 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Shorts, Skirts, Dress, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=accessories
+
+Brand=nordstrom rack
+
+Size=os
+
+Color=gold/silver
+
+Cost=3.66
+
+Title=sterling silver/cubic zircon studs 2 pair
+
+Description {
+sterling silver/cubic zircon studs 2 pair
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=1
+ItemID=138
+

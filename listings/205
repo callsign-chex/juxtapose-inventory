@@ -1,0 +1,25 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Shorts, Skirts, Dress, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=pants
+
+Brand=vogo athletica
+
+Size=l
+
+Color=black/gray
+
+Cost=3.00
+
+Title=vogo athletica black and gray pants
+
+Description {
+vogo athletica black and gray pants
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=b4
+ItemID=205

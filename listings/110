@@ -1,0 +1,28 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Shorts, Skirts, Dress, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=tops
+
+Brand=femme
+
+Size=3x
+
+Color=blue
+
+Cost=3.52
+
+(SOLD) Title=femme woman blue raglan sleeve top
+
+Description {
+femme woman blue 
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=b3
+
+ItemID=110
+
+Sold for 15.00

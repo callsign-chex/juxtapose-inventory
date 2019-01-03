@@ -1,0 +1,25 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=tops
+
+Brand=saucony
+
+Size=s
+
+Color=purple/lime
+
+Cost=4.00
+
+Title=saucony running vest purple/lime
+
+Description {
+saucony running vest purple/lime
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=b2
+ItemID=64

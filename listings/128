@@ -1,0 +1,25 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Shorts, Skirts, Dress, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=accessories
+
+Brand=none
+
+Size=os
+
+Color=silver
+
+Cost=2.00
+
+Title=thin silver tone bracelet
+
+Description {
+thin silver tone bracelet
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=j1
+ItemID=128

@@ -1,0 +1,27 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Shorts, Skirts, Dress, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=shoes
+
+Brand=blowfish
+
+Size=7.5
+
+Color=gray
+
+Cost=3.00
+
+(SOLD) Title=blowfish malibu metallic gray flats
+
+Description {
+blowfish
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=bb1
+ItemID=161
+
+Sold for 10.00

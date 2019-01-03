@@ -1,0 +1,25 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=tops
+
+Brand=ann taylor
+
+Size=2
+
+Color=gray
+
+Cost=3.52
+
+Title=ann taylor gray wool pencil skirt
+
+Description {
+ann taylor gray wool pencil
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=b3
+ItemID=107

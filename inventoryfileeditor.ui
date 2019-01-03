@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>InventoryFileEditor</class>
+ <widget class="QDialog" name="InventoryFileEditor">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>781</width>
+    <height>403</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QWidget" name="formLayoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>190</x>
+     <y>50</y>
+     <width>581</width>
+     <height>221</height>
+    </rect>
+   </property>
+   <layout class="QFormLayout" name="formLayout">
+    <item row="0" column="0">
+     <widget class="QLabel" name="titleLabel">
+      <property name="text">
+       <string>Title</string>
+      </property>
+     </widget>
+    </item>
+    <item row="1" column="0">
+     <widget class="QLabel" name="brandLabel">
+      <property name="text">
+       <string>Brand</string>
+      </property>
+     </widget>
+    </item>
+    <item row="1" column="1">
+     <widget class="QLineEdit" name="brandLineEdit"/>
+    </item>
+    <item row="2" column="0">
+     <widget class="QLabel" name="sizeLabel">
+      <property name="text">
+       <string>Size</string>
+      </property>
+     </widget>
+    </item>
+    <item row="2" column="1">
+     <widget class="QLineEdit" name="sizeLineEdit"/>
+    </item>
+    <item row="3" column="0">
+     <widget class="QLabel" name="colorLabel">
+      <property name="text">
+       <string>Color</string>
+      </property>
+     </widget>
+    </item>
+    <item row="3" column="1">
+     <widget class="QLineEdit" name="colorLineEdit"/>
+    </item>
+    <item row="4" column="0">
+     <widget class="QLabel" name="costLabel">
+      <property name="text">
+       <string>Cost</string>
+      </property>
+     </widget>
+    </item>
+    <item row="4" column="1">
+     <widget class="QLineEdit" name="costLineEdit"/>
+    </item>
+    <item row="5" column="0">
+     <widget class="QLabel" name="descriptionLabel">
+      <property name="text">
+       <string>Description</string>
+      </property>
+     </widget>
+    </item>
+    <item row="5" column="1">
+     <widget class="QLineEdit" name="descriptionLineEdit"/>
+    </item>
+    <item row="6" column="0">
+     <widget class="QLabel" name="locationLabel">
+      <property name="text">
+       <string>Location</string>
+      </property>
+     </widget>
+    </item>
+    <item row="6" column="1">
+     <widget class="QLineEdit" name="locationLineEdit"/>
+    </item>
+    <item row="0" column="1">
+     <widget class="QLineEdit" name="titleLineEdit"/>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QWidget" name="verticalLayoutWidget_2">
+   <property name="geometry">
+    <rect>
+     <x>190</x>
+     <y>280</y>
+     <width>160</width>
+     <height>83</height>
+    </rect>
+   </property>
+   <layout class="QVBoxLayout" name="verticalLayout_3">
+    <item>
+     <widget class="QRadioButton" name="mensRadioButton">
+      <property name="text">
+       <string>Men's</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QRadioButton" name="womenRadioButtons">
+      <property name="text">
+       <string>Women's</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QRadioButton" name="kidsRadioButton">
+      <property name="text">
+       <string>Kids'</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QWidget" name="verticalLayoutWidget_4">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>10</y>
+     <width>171</width>
+     <height>379</height>
+    </rect>
+   </property>
+   <layout class="QVBoxLayout" name="verticalLayout_5">
+    <item>
+     <widget class="QRadioButton" name="pantsRadioButton">
+      <property name="focusPolicy">
+       <enum>Qt::StrongFocus</enum>
+      </property>
+      <property name="text">
+       <string>Pants</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QRadioButton" name="shortsRadioButton">
+      <property name="text">
+       <string>Shorts</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QRadioButton" name="skirtsRadioButton">
+      <property name="text">
+       <string>Skirts</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QRadioButton" name="dressesRadioButton">
+      <property name="text">
+       <string>Dresses</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QRadioButton" name="topRadioButton">
+      <property name="text">
+       <string>Tops</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QRadioButton" name="outerwearRadioButton">
+      <property name="text">
+       <string>Outer Wear</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QRadioButton" name="underwearRadioButton">
+      <property name="text">
+       <string>Underwear</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QRadioButton" name="accessoriesRadioButton">
+      <property name="text">
+       <string>Accessories</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QRadioButton" name="bagsRadioButton">
+      <property name="text">
+       <string>Bags</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QRadioButton" name="shoesRadioButton">
+      <property name="text">
+       <string>Shoes</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QRadioButton" name="makeupRadioButton">
+      <property name="text">
+       <string>Makeup</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QWidget" name="horizontalLayoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>509</x>
+     <y>349</y>
+     <width>261</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <layout class="QHBoxLayout" name="horizontalLayout_3">
+    <item>
+     <widget class="QPushButton" name="cancelButton">
+      <property name="text">
+       <string>Cancel</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="saveAndCloseButton">
+      <property name="text">
+       <string>Save and close</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QLabel" name="itemNumberLabel">
+   <property name="geometry">
+    <rect>
+     <x>200</x>
+     <y>20</y>
+     <width>441</width>
+     <height>17</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>#13</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="soldForLabel">
+   <property name="geometry">
+    <rect>
+     <x>360</x>
+     <y>280</y>
+     <width>351</width>
+     <height>17</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

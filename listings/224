@@ -1,0 +1,25 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Shorts, Skirts, Dress, Tops, Outer Wear, Underwear, Swimwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=tops
+
+Brand=dc comics
+
+Size=s (junior)
+
+Color=green/black
+
+Cost=1.00
+
+Title=emerald green/black superman tsdhirt sz junior S
+
+Description {
+emerald green/black superman tshirts
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=b4
+ItemID=224

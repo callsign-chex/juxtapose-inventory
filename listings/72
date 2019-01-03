@@ -1,0 +1,25 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=tops
+
+Brand=harry potter
+
+Size=s
+
+Color=red
+
+Cost=2.00
+
+Title=harry potter red t shirt
+
+Description {
+harry potter red t shirt
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=b2
+ItemID=72

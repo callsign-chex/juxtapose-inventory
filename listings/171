@@ -1,0 +1,25 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Shorts, Skirts, Dress, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=accessories
+
+Brand=firever 21
+
+Size=os
+
+Color=red/white/blue
+
+Cost=1.00
+
+Title=forever 21 over the knee socks
+
+Description {
+forever 21 over the knee socks
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=bb2
+ItemID=171

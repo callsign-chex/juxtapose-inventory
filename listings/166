@@ -1,0 +1,25 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Shorts, Skirts, Dress, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=shoes
+
+Brand=speed limit 98
+
+Size=7
+
+Color=orange/pink
+
+Cost=2.00
+
+Title=speed limit 98 colorful platform wedge
+
+Description {
+speed limit 98 colorful platform wedge
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=bb1
+ItemID=166

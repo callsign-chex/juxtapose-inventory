@@ -1,0 +1,25 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=top
+
+Brand=talbots
+
+Size=medium petite
+
+Color=purple
+
+Cost=3.52
+
+Title=talbots purple leaf top
+
+Description {
+talbots purple leaf top
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=b2
+ItemID=56

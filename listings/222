@@ -1,0 +1,25 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Shorts, Skirts, Dress, Tops, Outer Wear, Underwear, Swimwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=tops
+
+Brand=grand & greene
+
+Size=xl
+
+Color=blue/green
+
+Cost=3.50
+
+Title=grand & green green/navy chevron top
+
+Description {
+grand & greene green/navy chevron top
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=b4
+ItemID=222

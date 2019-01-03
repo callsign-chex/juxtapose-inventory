@@ -1,0 +1,27 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=tops
+
+Brand=boohoo
+
+Size=10
+
+Color=blue/pink
+
+Cost=3.52
+
+(SOLD) Title=boohoo navy/floral romper
+
+Description {
+boohoo navy floral romper
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=b2
+ItemID=47
+
+Sold for 14.00

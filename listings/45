@@ -1,0 +1,27 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=top
+
+Brand=nygard collection
+
+Size=10;12
+
+Color=orange/silver
+
+Cost=3.52
+
+(SOLD) Title=nygard collection gold script
+
+Description {
+nygard colection gold script top
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=b2
+ItemID=45
+
+Sold for 16.00

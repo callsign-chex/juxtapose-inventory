@@ -1,0 +1,27 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=top
+
+Brand=victoria's secret pink
+
+Size=xs
+
+Color=teal
+
+Cost=3.52
+
+(SOLD) Title=pink victoria's secret long sleeve top
+
+Description {pink vs top
+
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=b1
+ItemID=13
+
+Sold for 8.00

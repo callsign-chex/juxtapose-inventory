@@ -1,0 +1,25 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=tops
+
+Brand=abound
+
+Size=s
+
+Color=lavender/black
+
+Cost=4.68
+
+Title=abound two for top lavender/black
+
+Description {
+abound two for top lavender/black
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=b1
+ItemID=26

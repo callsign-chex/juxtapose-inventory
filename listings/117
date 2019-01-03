@@ -1,0 +1,25 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Shorts, Skirts, Dress, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=tops
+
+Brand=liz claiborne
+
+Size=2x
+
+Color=blue/pink
+
+Cost=3.52
+
+Title=liz claiborne semi sheer navy floral blouse
+
+Description {
+liz claiborn navy floral
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=b3
+ItemID=117

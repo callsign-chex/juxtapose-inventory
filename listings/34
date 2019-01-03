@@ -1,0 +1,25 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=womn
+
+(Pants, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=tops
+
+Brand=american eagle outfitters 
+
+Size=m
+
+Color=purple
+
+Cost=3.50
+
+Title=american eagle outfitters purple long sleeve top
+
+Description {
+aeo purple long sleeve
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=b1
+ItemID=34

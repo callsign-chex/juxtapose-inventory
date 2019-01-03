@@ -1,0 +1,25 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Shorts, Skirts, Dress, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=shoes
+
+Brand=the sak
+
+Size=6.5
+
+Color=green/pink
+
+Cost=2.00
+
+Title=the sak colorful cork wedges
+
+Description {
+the sak colorful cork wedges
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=bb2
+ItemID=177

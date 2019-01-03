@@ -1,0 +1,25 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=tops
+
+Brand=le ger
+
+Size=m
+
+Color=black/orange
+
+Cost=3.52
+
+Title=vintage le ger tropical print shirt
+
+Description {
+vintage le ger tropical print shirt
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=b2
+ItemID=42

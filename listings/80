@@ -1,0 +1,25 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=tops
+
+Brand=san francisco
+
+Size=small petite
+
+Color=pink/orange
+
+Cost=2.00
+
+Title=bright pink san francisco t shirt
+
+Description {
+san francisco bright pink
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=b3
+ItemID=80

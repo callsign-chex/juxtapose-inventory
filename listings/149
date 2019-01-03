@@ -1,0 +1,25 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Shorts, Skirts, Dress, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=shoes
+
+Brand=lane bryant
+
+Size=9W
+
+Color=black/white
+
+Cost=5.00
+
+Title=lane bryant black lace top shoes
+
+Description {
+lane bryant black lace top shoes
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=bb1
+ItemID=149

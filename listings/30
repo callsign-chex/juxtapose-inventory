@@ -1,0 +1,25 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=tops
+
+Brand=moonchild
+
+Size=s
+
+Color=blue/white
+
+Cost=3.52
+
+Title=moonchild navy blue crochet top
+
+Description {
+moonchild navy blue blue crochet
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=b1
+ItemID=30

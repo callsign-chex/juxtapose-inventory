@@ -1,0 +1,25 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Shorts, Skirts, Dress, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=shoes
+
+Brand=stuart weitzman
+
+Size=8.5
+
+Color=brown/black
+
+Cost=3.00
+
+Title=stuart weitzman tortoise patent leather sandal defect
+
+Description {
+stuart weitzman tortoise
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=bb2
+ItemID=178

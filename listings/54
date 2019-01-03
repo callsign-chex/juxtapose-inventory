@@ -1,0 +1,25 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=tops
+
+Brand=liz claiborn
+
+Size=s
+
+Color=pink/gray
+
+Cost=3.52
+
+Title=liz claiborn pink/gray top
+
+Description {
+liz claiborn pink/gray top
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=b2
+ItemID=54

@@ -1,0 +1,25 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=tops
+
+Brand=guess jeans
+
+Size=m
+
+Color=tan/blue
+
+Cost=12.00
+
+Title=guess jeans western style button down
+
+Description {
+guess jeans western style button down
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=b1
+ItemID=18

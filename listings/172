@@ -1,0 +1,25 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Shorts, Skirts, Dress, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=shoes
+
+Brand=gap
+
+Size=10
+
+Color=brown/tan
+
+Cost=3.00
+
+Title=gap brown leather espadrille wedges
+
+Description {
+gap brown leather espadrille wedges
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=bb2
+ItemID=172

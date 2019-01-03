@@ -1,0 +1,25 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=tops
+
+Brand=poetry
+
+Size=xl
+
+Color=black/cream
+
+Cost=3.52
+
+Title=poetry clothing zebra print open back top
+
+Description {
+zebra print open back top
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=b2
+ItemID=52

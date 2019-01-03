@@ -1,0 +1,25 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=women
+
+(Pants, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catagory=tops
+
+Brand=livi active
+
+Size=26/28
+
+Color=blue
+
+Cost=0.00
+
+Title=livi active blue work out shirt
+
+Description {
+livie active blue work out top
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=b1
+ItemID=23

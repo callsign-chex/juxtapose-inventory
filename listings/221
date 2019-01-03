@@ -1,0 +1,27 @@
+Item Listing - Juxtapose66
+
+(Men, Women, Kids)
+Classification=
+
+(Pants, Shorts, Skirts, Dress, Tops, Outer Wear, Underwear, Accessories, Bags, Shoes, Makeup) 
+Catatagory=swimwear
+
+Brand=speedo
+
+Size=6
+
+Color=black
+
+Cost=3.00
+
+(SOLD) Title=speedo black one piece racing swim suit 
+
+Description {
+speedo black one piece racing swim suit
+}
+
+(b1, b2..., bb1, bb2..., j1, j2...)
+Location=b4
+ItemID=221
+
+Sold for 14.00
