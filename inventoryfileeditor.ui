@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>781</width>
-    <height>403</height>
+    <height>434</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -134,7 +134,7 @@
      <x>10</x>
      <y>10</y>
      <width>171</width>
-     <height>379</height>
+     <height>411</height>
     </rect>
    </property>
    <layout class="QVBoxLayout" name="verticalLayout_5">
@@ -218,13 +218,20 @@
       </property>
      </widget>
     </item>
+    <item>
+     <widget class="QRadioButton" name="swimwearRadioButton">
+      <property name="text">
+       <string>Swimwear</string>
+      </property>
+     </widget>
+    </item>
    </layout>
   </widget>
   <widget class="QWidget" name="horizontalLayoutWidget">
    <property name="geometry">
     <rect>
-     <x>509</x>
-     <y>349</y>
+     <x>510</x>
+     <y>380</y>
      <width>261</width>
      <height>51</height>
     </rect>

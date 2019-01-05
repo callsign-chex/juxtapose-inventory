@@ -77,6 +77,8 @@ void InventoryFileEditor::PopulateInventoryFile(InventoryFile inventoryFile) {
         break;
     case 10:
         ui->makeupRadioButton->setChecked(true);
+    case 11:
+        ui->swimwearRadioButton->setChecked(true);
     default:
         break;
     }
@@ -134,6 +136,8 @@ void InventoryFileEditor::on_saveAndCloseButton_clicked()
         inventoryFile.catagory = 9;
     } else if (ui->makeupRadioButton->isChecked()) {
         inventoryFile.catagory = 10;
+    } else if (ui->swimwearRadioButton->isChecked()) {
+        inventoryFile.catagory = 11;
     }
 
     // saves the listing as the appropriately named .xml file, and closes if it succeeds.
